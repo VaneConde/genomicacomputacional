@@ -1,0 +1,9 @@
+
+Resumen sarsCov-2
+ El virus SarsCov-2 es un virus de RNA que codifica a proteínas no estructurales.  produce enfermedades en tracto respiratorio, enfermedades 
+gastro-intestinales, y en el sistema nervioso central. Los coronavirus están conformados por 4 familias: alfa y beta que afectan a mamíferos y Gama y delta afectan 
+a aves y mamíferos.  Tiene un tamaño de 50 a 200 nm y esta conformado por proteínas que permiten la unión con receptores de las células, codifica para las proteínas 
+s-s1-s2 proteínas de membrana , y proteínas m. Algunas vacunas se realizan como bloqueadores de receptor, otras con microorganismos atenuados o desactivados, 
+actualmente se están desarrollando distintas vacunas como la de Quebec Canadá.
+
+

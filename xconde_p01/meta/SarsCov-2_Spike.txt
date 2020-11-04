@@ -1,0 +1,13 @@
+
+#Parte 3 
+**Respuesta 2 ** 
+Los coronavirus son virus procedientes de la famiia 
+ Coronaviridae en el orden Nidovirales. Los virus estan envueltos en una capside formada por proteinas estructurales como La proteina (M) , proteina (E) que 
+funcionan en el ensamblaje del virus, proteína espiga (S) tienen pape en las células huésped. Un receptor del virus se une a un receptor en la superficie de huésped 
+por medio de su sub unidad S1 , s2 ayuda a la fusión de membranas virales y de huesped. Los coronavirus ancestrales probablemente adquirieron una gelatína huésped , 
+que pasarían a ser S1-NTD de sus picos, los coronavirus reconocerían los receptores de azúcar para entrada celular. Algunos desarrollan una proteína hemaglutinina 
+El pico de coronavirus esta dividido en tres segmentos : ectodominio grande, ancla transmembrana de un solo paso y una cola corta; El ectodominio es una sub unidad 
+de unión al receptor S1 y sub unidad de fusión de s2 . En la entrada del virus, los receptores se unen a un receptor en la superficie de la célula huésped para la 
+unión viral, y S2 fusiona las membranas de huésped y vira. Sirven como objetivos primarios de las invenciones humanas. Las sub unidades S1 de difeentes géneros 
+comparten poca similitud en secuencia, mientras que las del mismo género tienen una similitud de secuencia significativa . En el coronavirus S1 , los dominios 
+s1-NTD y el diminio S1-CT.
