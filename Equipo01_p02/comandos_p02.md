@@ -3,7 +3,7 @@
 ## Equipo 01 
 ### Integrante 1: Astrid Austria López
 ### Integrante 2: Xochitl Vanessa Conde Alonzo 
-### Integrante 3: ...
+### Integrante 3: Mario Alberto Avella Villalobos
 ...
 
 # Parte I. 
@@ -24,3 +24,19 @@ Tabla
 |Heliscopio/ Helicos       | 35                     | 7x10^9          |8 días       | $0,01              |           | 
 
 # Parte II.
+
+
+# Parte III.
+**Análisis de Calidad de Secuencias**
+
+*FastQ
+
+**Respuesta 1**
+
+Instalación del programa
+```
+$ 
+```
+
+**Respuesta 2**
+Creación del script
