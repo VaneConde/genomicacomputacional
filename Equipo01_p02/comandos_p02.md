@@ -24,7 +24,7 @@ Segunda generación | | | | | | |
 # Parte III.
 **Análisis de Calidad de Secuencias**
 
-*FastQ
+·FastQ
 
 **Respuesta 1**
 
@@ -34,4 +34,5 @@ $
 ```
 
 **Respuesta 2**
+
 Creación del script
