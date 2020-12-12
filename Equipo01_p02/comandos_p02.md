@@ -3,7 +3,7 @@
 ## Equipo 01 
 ### Integrante 1: Astrid Austria López
 ### Integrante 2: Xochitl Vanessa Conde Alonzo 
-### Integrante 3: ...
+### Integrante 3: Mario Alberto Avella Villalobos
 ...
 
 # Parte I. 
@@ -19,3 +19,13 @@ Segunda generación | | | | | | |
 
 
 # Parte II.
+
+# Parte III.
+**Análisis de Calidad de Secuencias**
+
+*FastQ
+1. Instalación del programa
+```
+$ 
+```
+2. Creación del script
