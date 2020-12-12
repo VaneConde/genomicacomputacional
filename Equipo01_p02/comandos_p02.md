@@ -20,11 +20,13 @@ Segunda generación | | | | | | |
 
 # Parte II.
 
+
 # Parte III.
 **Análisis de Calidad de Secuencias**
 
 *FastQ
-1. Instalación del programa
+**Respuesta 1**
+ Instalación del programa
 ```
 $ 
 ```
