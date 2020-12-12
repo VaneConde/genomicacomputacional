@@ -25,9 +25,13 @@ Segunda generación | | | | | | |
 **Análisis de Calidad de Secuencias**
 
 *FastQ
+
 **Respuesta 1**
- Instalación del programa
+
+Instalación del programa
 ```
 $ 
 ```
-2. Creación del script
+
+**Respuesta 2**
+Creación del script
