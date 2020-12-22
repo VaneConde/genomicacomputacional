@@ -3,7 +3,6 @@
 ## Equipo 01 
 ### Integrante 1: Astrid Austria López
 ### Integrante 2: Xochitl Vanessa Conde Alonzo 
-### Integrante 3: Mario Alberto Avella Villalobos
 ...
 
 # Parte I. 
