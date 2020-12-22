@@ -22,21 +22,4 @@ Tabla
 | Nanopore/ Oxford         | >5000                  | 6x10^4          | 3 días      | <1                 | 34        |Real-time SMS            |
 |Heliscopio/ Helicos       | 35                     | 7x10^9          |8 días       | $0,01              | 0.2       |Real-timw SMS            |
 
-# Parte II.
 
-
-# Parte III.
-**Análisis de Calidad de Secuencias**
-
-·FastQ
-
-**Respuesta 1**
-
-Instalación del programa
-```
-$ 
-```
-
-**Respuesta 2**
-
-Creación del script
