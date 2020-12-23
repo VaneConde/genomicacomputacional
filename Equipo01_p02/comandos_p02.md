@@ -51,6 +51,8 @@ para descomprimir: unzip ena_files1.zip
 
  grep -c "^>" secuancia2.fa
 
+   398824
+
 # Parte III
 
 **Respuesta 1** 
