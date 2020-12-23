@@ -23,4 +23,35 @@ Tabla
 | Nanopore/ Oxford         | >5000                  | 6x10^4          | 3 días      | <1                 | 34        |Real-time SMS            |
 |Heliscopio/ Helicos       | 35                     | 7x10^9          |8 días       | $0,01              | 0.2       |Real-timw SMS            |
 
+# Parte II
+
+**Respuesta 1 
+
+para descomprimir: unzip ena_files1.zip
+ 
+#movernos al directorio ena_files1.zip#
+
+ gunzip ERR486827_1.fastq.gz
+
+ gunzip ERR486827_2.fastq.gz
+
+#Para pasar de fastq a fasta:
+
+ awk '{if (NR% 4 == 1) {printf (">% s \ n", substr ($ 0,2));} else if (NR% 4 == 2) print;}' ERR486827_1.fastq > secuencia1.fa
+
+ awk '{if (NR% 4 == 1) {printf (">% s \ n", substr ($ 0,2));} else if (NR% 4 == 2) print;}' ERR486827_2.fastq > secuancia2.fa
+
+** Respuesta 2 
+
+ ¿ambos archivos tienen la misma cantidad de secuencias? Sí
+  
+  grep -c "^>" secuencia1.fa
+  
+  398824
+
+ grep -c "^>" secuancia2.fa
+
+# Parte III
+
+**Respuesta 1 
 
