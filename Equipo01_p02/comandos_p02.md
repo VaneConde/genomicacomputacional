@@ -55,3 +55,14 @@ para descomprimir: unzip ena_files1.zip
 
 **Respuesta 1 
 
+para descomprimir:
+
+ unzip FastQC-0.11.9.zip
+
+ para dar permisos de ejecución: #nos movemos a la carperta descomprimida de FastQC#
+
+ #/Users/uliaus/Desktop/FastQC-0.11.9
+
+ chmod +x fastqc
+ para el enlace simbólico: sudo ln -s /Users/uliaus/Desktop/FastQC-0.11.9/fastqc /usr/local/bin/fastqc
+
