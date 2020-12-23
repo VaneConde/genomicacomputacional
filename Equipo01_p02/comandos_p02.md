@@ -59,7 +59,9 @@ para descomprimir:
 
  unzip FastQC-0.11.9.zip
 
- para dar permisos de ejecución: #nos movemos a la carperta descomprimida de FastQC#
+ para dar permisos de ejecución: 
+
+#nos movemos a la carperta descomprimida de FastQC#
 
  #/Users/uliaus/Desktop/FastQC-0.11.9
 
