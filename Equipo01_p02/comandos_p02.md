@@ -7,7 +7,7 @@
 
 # Parte I. 
 
-**Respuesta 1
+**Respuesta 1**
 
 Tabla
 
@@ -25,7 +25,7 @@ Tabla
 
 # Parte II
 
-**Respuesta 1 
+**Respuesta 1**
 
 para descomprimir: unzip ena_files1.zip
  
@@ -41,7 +41,7 @@ para descomprimir: unzip ena_files1.zip
 
  awk '{if (NR% 4 == 1) {printf (">% s \ n", substr ($ 0,2));} else if (NR% 4 == 2) print;}' ERR486827_2.fastq > secuancia2.fa
 
-** Respuesta 2 
+**Respuesta 2** 
 
  ¿ambos archivos tienen la misma cantidad de secuencias? Sí
   
@@ -53,7 +53,7 @@ para descomprimir: unzip ena_files1.zip
 
 # Parte III
 
-**Respuesta 1 
+**Respuesta 1** 
 
 para descomprimir:
 
@@ -67,4 +67,6 @@ para descomprimir:
 
  chmod +x fastqc
  para el enlace simbólico: sudo ln -s /Users/uliaus/Desktop/FastQC-0.11.9/fastqc /usr/local/bin/fastqc
+
+**Respuesta 2 **
 
