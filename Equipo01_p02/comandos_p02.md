@@ -101,13 +101,13 @@ cobertura= (150*398824)/580000 = 103.1441
 
 Secuencias crudas de Saccharomyces Saccharomyces cerevisiae
 
-S. cerevisiae tiene un genoma pequeño, un tiempo de duplicación relativamente corto y se puede analizar genéticamente, muchos de los avances que se 
-han hecho en biología molecular han utilizado esta levadura como herramienta de investigación. Este organismo tiene importantes usos industriales 
-para la producción de cerveza, pan, vino, péptidos y proteínas recombinantes. Saccharomyces cerevisiae también se aísla de productos lácteos que incluyen leche, yogures y quesos, verduras fermentadas y productos
-vegetales mínimamente procesados, aunque la importancia de esta especie en el deterioro de estos productos no está claramente definida. 
-La transformación de la levadura generalmente se realiza de dos maneras: ya sea mediante la formación de esferoplastos, incluida la eliminación de la pared celular, o mediante un tratamiento más rápido de células 
-intactas con cationes alcalinos como organismo hospedador para la expresión de ADN extraño, introducido en forma de vectores de ADN plasmídico , ha 
-sido una parte importante de los avances actuales que se han producido en la tecnología del ADN recombinante. 
+S. cerevisiae tiene un genoma pequeño, un tiempo de duplicación relativamente corto y se puede analizar genéticamente, muchos de los avances que se han hecho en 
+biología molecular han utilizado esta levadura como herramienta de investigación. Este organismo tiene importantes usos industriales para la producción de cerveza, 
+pan, vino, péptidos y proteínas recombinantes. Saccharomyces cerevisiae también se aísla de productos lácteos que incluyen leche, yogures y quesos, verduras 
+fermentadas y productos vegetales mínimamente procesados, aunque la importancia de esta especie en el deterioro de estos productos no está claramente definida. La 
+transformación de la levadura generalmente se realiza de dos maneras: ya sea mediante la formación de esferoplastos, incluida la eliminación de la pared celular, o 
+mediante un tratamiento más rápido de células intactas con cationes alcalinos como organismo hospedador para la expresión de ADN extraño, introducido en forma de 
+vectores de ADN plasmídico , ha sido una parte importante de los avances actuales que se han producido en la tecnología del ADN recombinante.
 
  Secuencias expraidas de : https://www.ebi.ac.uk/ena/browser/view/PRJNA33187
 
