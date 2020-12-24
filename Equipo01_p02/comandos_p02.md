@@ -78,6 +78,7 @@ export PATH=$PATH:/Users/uliaus/desktop/FastQC
 Creación de sccritp*
 
 **Respuesta 3**
+
 Archivo html
 
 file:///Users/uliaus/pruebanueva/ERR486827_1_fastqc.html
