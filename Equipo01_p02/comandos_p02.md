@@ -101,7 +101,7 @@ cobertura= (150*398824)/580000 = 103.1441
 
 Secuencias crudas de Saccharomyces Saccharomyces cerevisiae
 
-S. cerevisiae tiene un genoma pequeño, un tiempo de duplicación relativamente corto y se puede analizar genéticamente, muchos de los avances que se han hecho en 
+Saccharomyces cerevisiae tiene un genoma pequeño, un tiempo de duplicación relativamente corto y se puede analizar genéticamente, muchos de los avances que se han hecho en 
 biología molecular han utilizado esta levadura como herramienta de investigación. 
 Este organismo tiene importantes usos industriales para la producción de cerveza, 
 pan, vino, péptidos y proteínas recombinantes. Saccharomyces cerevisiae también se aísla de productos lácteos que incluyen leche, yogures y quesos, verduras 
@@ -115,6 +115,12 @@ vectores de ADN plasmídico , ha sido una parte importante de los avances actual
 **Respuesta 2**
 
 Se utilizó el método Sanger para la secuenciación del genoma
+
+Es una técnica de secuenciación dirigida que utiliza cebadores de oligonucleótidos para buscar regiones de ADN específicas. En primer lugar se lleva a cabo la 
+desnaturalización del ADN de doble hebra, teniendo una sola hebra de ADN se hibrida on cebadores de oligonucleótidos y se alarga usando una mezcla de dNTP que 
+otorgan los nucleótidos de arginina, citosina, tirosina y guanina necesarios para contruir la nueva estructura de doble hebra. Se agregara tambien una cantidad de ddNTP para cada nucleótido. Las probabilidades de que dNTP y ddNTP de unirse a la secuencia es la misma. Los ddNTP incluyen iuna marcador florescente que al unirse a la secuencia de alargamiento, la base emite flourescencia segun el nucleótido que se asocia. Las lecturas son registradas de a cuendo a la intensidad flourescente. 
+
+Fuentes
 
 https://www.sanger.ac.uk/research/projects/genomeinformatics/sgrp.html
 
