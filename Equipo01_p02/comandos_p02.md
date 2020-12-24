@@ -95,6 +95,7 @@ las lecturas.
 
 cobertura= (150*398824)/580000 = 103.1441
 
+*Los datos obtenidos pare el calculo de la cobertura se obtuvieron por medio de las tablas y gráficas presentadas en FastQC
 
 # Parte IV
 
@@ -147,5 +148,6 @@ valores de phred de 10-32 dando un resultado fallido indicado por el mismo progr
 
 **Respuesta 6** 
 
-Se propone un corte de las secuencias utilizando FastX-tools en la parte de inicio que tienen valores de phred de 0-10 y en la parte final que tiene valores de 6-40 
-phreds.
+Se propone un corte de las secuencias en la parte de inicio que tienen valores de phred de 0-10 y en la parte final con valores de 6-40 
+phreds. El corte de secuencias se llevaria acabo utilizando ERNE-filter ya que con este programa se pueden recortar las lecturas al eliminar las bases de baja calidad en los extremos de estas y filtrar aquellas que estén contaminadas.
+
