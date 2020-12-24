@@ -102,14 +102,14 @@ cobertura= (150*398824)/580000 = 103.1441
 
 Secuencias crudas de Saccharomyces Saccharomyces cerevisiae
 
-Saccharomyces cerevisiae tiene un genoma pequeño, un tiempo de duplicación relativamente corto y se puede analizar genéticamente, muchos de los avances que se han hecho en 
-biología molecular han utilizado esta levadura como herramienta de investigación. 
-Este organismo tiene importantes usos industriales para la producción de cerveza, 
-pan, vino, péptidos y proteínas recombinantes. Saccharomyces cerevisiae también se aísla de productos lácteos que incluyen leche, yogures y quesos, verduras 
-fermentadas y productos vegetales mínimamente procesados, aunque la importancia de esta especie en el deterioro de estos productos no está claramente definida. La 
-transformación de la levadura generalmente se realiza de dos maneras: ya sea mediante la formación de esferoplastos, incluida la eliminación de la pared celular, o 
-mediante un tratamiento más rápido de células intactas con cationes alcalinos como organismo hospedador para la expresión de ADN extraño, introducido en forma de 
-vectores de ADN plasmídico , ha sido una parte importante de los avances actuales que se han producido en la tecnología del ADN recombinante.
+Saccharomyces cerevisiae tiene un genoma pequeño, un tiempo de duplicación relativamente corto y se puede analizar genéticamente, muchos de los avances que se han 
+hecho en biología molecular han utilizado esta levadura como herramienta de investigación. Este organismo tiene importantes usos industriales para la producción de 
+cerveza, pan, vino, péptidos y proteínas recombinantes. Saccharomyces cerevisiae también se aísla de productos lácteos que incluyen leche, yogures y quesos, 
+verduras fermentadas y productos vegetales mínimamente procesados, aunque la importancia de esta especie en el deterioro de estos productos no está claramente 
+definida. La transformación de la levadura generalmente se realiza de dos maneras: ya sea mediante la formación de esferoplastos, incluida la eliminación de la 
+pared celular, o mediante un tratamiento más rápido de células intactas con cationes alcalinos como organismo hospedador para la expresión de ADN extraño, 
+introducido en forma de vectores de ADN plasmídico , ha sido una parte importante de los avances actuales que se han producido en la tecnología del ADN 
+recombinante.
 
  Secuencias expraidas de : https://www.ebi.ac.uk/ena/browser/view/PRJNA33187
 
@@ -119,7 +119,10 @@ Se utilizó el método Sanger para la secuenciación del genoma
 
 Es una técnica de secuenciación dirigida que utiliza cebadores de oligonucleótidos para buscar regiones de ADN específicas. En primer lugar se lleva a cabo la 
 desnaturalización del ADN de doble hebra, teniendo una sola hebra de ADN se hibrida on cebadores de oligonucleótidos y se alarga usando una mezcla de dNTP que 
-otorgan los nucleótidos de arginina, citosina, tirosina y guanina necesarios para contruir la nueva estructura de doble hebra. Se agregara tambien una cantidad de ddNTP para cada nucleótido. Las probabilidades de que dNTP y ddNTP de unirse a la secuencia es la misma. Los ddNTP incluyen iuna marcador florescente que al unirse a la secuencia de alargamiento, la base emite flourescencia segun el nucleótido que se asocia. Las lecturas son registradas de a cuendo a la intensidad flourescente. 
+otorgan los nucleótidos de arginina, citosina, tirosina y guanina necesarios para contruir la nueva estructura de doble hebra. Se agregara tambien una cantidad de 
+ddNTP para cada nucleótido. Las probabilidades de que dNTP y ddNTP de unirse a la secuencia es la misma. Los ddNTP incluyen iuna marcador florescente que al unirse 
+a la secuencia de alargamiento, la base emite flourescencia segun el nucleótido que se asocia. Las lecturas son registradas de a cuendo a la intensidad 
+flourescente.
 
 Fuentes
 
@@ -127,6 +130,7 @@ https://www.sanger.ac.uk/research/projects/genomeinformatics/sgrp.html
 
 **Respuesta 3**
 
+cobertura = (1280 * 1254)/12156677 = 1.3239
 
 **Respuesta 4**
 
@@ -134,8 +138,8 @@ https://www.sanger.ac.uk/research/projects/genomeinformatics/sgrp.html
 *.html (se muestra en la carpeta Equipo01_p02 en formato pdf)
 
 Las secuenciaciones de 1-9 indican una mala calidad debido a que las lecturas se encuentran en un rango de 0-10 phreds mientras que las secuencias de 100-649 marcan 
-una calidad media a buena en un rango de 22-56 phreds. La gráfica vuelve a bajar en las secuencias 850-1049 las cuales se encuentran de 6-40, las lecturas no se mantienen 
-estables a lo largo de la gráfica lo que indica alguna falla durante la secuenciacion o antes de la misma.
+una calidad media a buena en un rango de 22-56 phreds. La gráfica vuelve a bajar en las secuencias 850-1049 las cuales se encuentran de 6-40, las lecturas no se 
+mantienen estables a lo largo de la gráfica lo que indica alguna falla durante la secuenciacion o antes de la misma.
 
 **Respuesta 5**
 
@@ -143,6 +147,5 @@ valores de phred de 10-32 dando un resultado fallido indicado por el mismo progr
 
 **Respuesta 6** 
 
-Se propone un corte de las secuencias en la parte de inicio que tienen valores de phred de 0-10 y en la parte final que tiene valores de 6-40 phreds. 
-
-
+Se propone un corte de las secuencias utilizando FastX-tools en la parte de inicio que tienen valores de phred de 0-10 y en la parte final que tiene valores de 6-40 
+phreds.
