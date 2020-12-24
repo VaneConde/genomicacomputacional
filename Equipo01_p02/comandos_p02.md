@@ -89,3 +89,15 @@ Descripcion de lecturas
 
 # Parte IV
 
+**Respueta 1**
+Secuencias crudas de Saccharomyces Saccharomyces species, S cerevisiae y S paradoxus. 
+
+Secuencias expraidas de : https://www.ebi.ac.uk/ena/browser/view/PRJNA33187
+
+**Respuesta 2**
+
+Se utilizó el método Sanger para la secuenciación del genoma
+
+https://www.sanger.ac.uk/research/projects/genomeinformatics/sgrp.html
+
+
