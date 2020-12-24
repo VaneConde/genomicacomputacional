@@ -73,7 +73,7 @@ Para hacerlo ejecutable:
  
 export PATH=$PATH:/Users/uliaus/desktop/FastQC
 
-Creación de scritp*
+Creación de script*
 
 **Respuesta 3**
 
@@ -83,6 +83,14 @@ file:///Users/uliaus/pruebanueva/ERR486827_1_fastqc.html
 file:///Users/uliaus/pruebanueva/ERR486827_2_fastqc.html
 
 #Descripcion de lecturas 
+
+La calidad es buena porque las secuencias se encuentran entre los valores de calidad de 30-40 phreds lo que significa que la probabilidad de que los pares de bases 
+sean correctas está en un rango del 99.9% al 99.99% .El comportamient1o de la gráfica de calidad es bastante estable a lo largo de toda la secuencia.
+
+
+**Respuesta 4**
+
+cobertura= (150*398824)/580000 = 103.1441
 
 
 # Parte IV
@@ -102,6 +110,4 @@ https://www.sanger.ac.uk/research/projects/genomeinformatics/sgrp.html
 **Respuesta 3**
 
 **Respuesta 4**
-
-cobertura= (398824*150*)/580000 = 103.1441
 
