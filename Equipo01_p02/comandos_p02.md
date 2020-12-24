@@ -86,8 +86,9 @@ file:///Users/uliaus/pruebanueva/ERR486827_2_fastqc.html
 
 #Descripcion de lecturas 
 
-La calidad de ambas secuenciaciones es buena porque las secuencias se encuentran entre los valores de calidad de 30-40 phreds , lo que significa que la probabilidad de que los pares de bases 
-sean correctas está en un rango del 99.9% al 99.99% .El comportamient1o de la gráfica de calidad es bastante estable a lo largo de todas las lecturas.
+La calidad de ambas secuenciaciones es buena porque las secuencias se encuentran entre los valores de calidad de 30-40 phreds , lo que significa que la probabilidad 
+de que los pares de bases sean correctas está en un rango del 99.9% al 99.99% .El comportamient1o de la gráfica de calidad es bastante estable a lo largo de todas 
+las lecturas.
 
 
 **Respuesta 4**
@@ -128,4 +129,20 @@ https://www.sanger.ac.uk/research/projects/genomeinformatics/sgrp.html
 
 
 **Respuesta 4**
+
+*FastQC
+*.html (se muestra en la carpeta Equipo01_p02 en formato pdf)
+
+Las secuenciaciones de 1-9 indican una mala calidad debido a que las lecturas se encuentran en un rango de 0-10 phreds mientras que las secuencias de 100-649 marcan 
+una calidad media a buena en un rango de 22-56 phreds. La gráfica vuelve a bajar en las secuencias 850-1049 las cuales se encuentran de 6-40, las lecturas no se mantienen 
+estables a lo largo de la gráfica lo que indica alguna falla durante la secuenciacion o antes de la misma.
+
+**Respuesta 5**
+
+valores de phred de 10-32 dando un resultado fallido indicado por el mismo programa.
+
+**Respuesta 6** 
+
+Se propone un corte de las secuencias en la parte de inicio que tienen valores de phred de 0-10 y en la parte final que tiene valores de 6-40 phreds. 
+
 
