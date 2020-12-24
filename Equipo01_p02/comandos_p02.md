@@ -73,7 +73,9 @@ Para hacerlo ejecutable:
  
 export PATH=$PATH:/Users/uliaus/desktop/FastQC
 
-Creación de script*
+**Respuesta 2**
+
+Creación de script (el archivo se encuentra en la carpeta Equipo01_p02)
 
 **Respuesta 3**
 
@@ -84,8 +86,8 @@ file:///Users/uliaus/pruebanueva/ERR486827_2_fastqc.html
 
 #Descripcion de lecturas 
 
-La calidad es buena porque las secuencias se encuentran entre los valores de calidad de 30-40 phreds lo que significa que la probabilidad de que los pares de bases 
-sean correctas está en un rango del 99.9% al 99.99% .El comportamient1o de la gráfica de calidad es bastante estable a lo largo de toda la secuencia.
+La calidad de ambas secuenciaciones es buena porque las secuencias se encuentran entre los valores de calidad de 30-40 phreds , lo que significa que la probabilidad de que los pares de bases 
+sean correctas está en un rango del 99.9% al 99.99% .El comportamient1o de la gráfica de calidad es bastante estable a lo largo de todas las lecturas.
 
 
 **Respuesta 4**
@@ -97,9 +99,17 @@ cobertura= (150*398824)/580000 = 103.1441
 
 **Respueta 1**
 
-Secuencias crudas de Saccharomyces Saccharomyces species, S cerevisiae y S paradoxus. 
+Secuencias crudas de Saccharomyces Saccharomyces cerevisiae
 
-Secuencias expraidas de : https://www.ebi.ac.uk/ena/browser/view/PRJNA33187
+S. cerevisiae tiene un genoma pequeño, un tiempo de duplicación relativamente corto y se puede analizar genéticamente, muchos de los avances que se 
+han hecho en biología molecular han utilizado esta levadura como herramienta de investigación. Este organismo tiene importantes usos industriales 
+para la producción de cerveza, pan, vino, péptidos y proteínas recombinantes. Saccharomyces cerevisiae también se aísla de productos lácteos que incluyen leche, yogures y quesos, verduras fermentadas y productos
+vegetales mínimamente procesados, aunque la importancia de esta especie en el deterioro de estos productos no está claramente definida. 
+La transformación de la levadura generalmente se realiza de dos maneras: ya sea mediante la formación de esferoplastos, incluida la eliminación de la pared celular, o mediante un tratamiento más rápido de células 
+intactas con cationes alcalinos como organismo hospedador para la expresión de ADN extraño, introducido en forma de vectores de ADN plasmídico , ha 
+sido una parte importante de los avances actuales que se han producido en la tecnología del ADN recombinante. 
+
+ Secuencias expraidas de : https://www.ebi.ac.uk/ena/browser/view/PRJNA33187
 
 **Respuesta 2**
 
@@ -108,6 +118,7 @@ Se utilizó el método Sanger para la secuenciación del genoma
 https://www.sanger.ac.uk/research/projects/genomeinformatics/sgrp.html
 
 **Respuesta 3**
+
 
 **Respuesta 4**
 
