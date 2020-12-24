@@ -29,7 +29,7 @@ Tabla
 
 para descomprimir: unzip ena_files1.zip
  
-#movernos al directorio ena_files1.zip#
+#movernos al directorio ena_files1.zip
 
  gunzip ERR486827_1.fastq.gz
 
@@ -61,14 +61,30 @@ para descomprimir:
 
  unzip FastQC-0.11.9.zip
 
- para dar permisos de ejecución: 
+para dar permisos de ejecución:
+
+chmod +x fastqc 
 
 #nos movemos a la carperta descomprimida de FastQC#
 
  #/Users/uliaus/Desktop/FastQC-0.11.9
 
- chmod +x fastqc
  para el enlace simbólico: sudo ln -s /Users/uliaus/Desktop/FastQC-0.11.9/fastqc /usr/local/bin/fastqc
 
-**Respuesta 2 **
+Para hacerlo ejecutable:
+ 
+export PATH=$PATH:/Users/uliaus/desktop/FastQC
+
+Creación de sccritp*
+
+**Respuesta 3**
+Archivo html
+
+file:///Users/uliaus/pruebanueva/ERR486827_1_fastqc.html
+file:///Users/uliaus/pruebanueva/ERR486827_2_fastqc.html
+
+Descripcion de lecturas 
+
+
+# Parte IV
 
