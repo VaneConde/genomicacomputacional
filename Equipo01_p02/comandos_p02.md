@@ -27,15 +27,15 @@ Tabla
 
 **Respuesta 1**
 
-para descomprimir: unzip ena_files1.zip
- 
-#movernos al directorio ena_files1.zip
+ para descomprimir:
 
+ unzip ena_files1.zip
+ 
  gunzip ERR486827_1.fastq.gz
 
  gunzip ERR486827_2.fastq.gz
 
-#Para pasar de fastq a fasta:
+Para pasar de fastq a fasta:
 
  awk '{if (NR% 4 == 1) {printf (">% s \ n", substr ($ 0,2));} else if (NR% 4 == 2) print;}' ERR486827_1.fastq > secuencia1.fa
 
@@ -65,9 +65,7 @@ para dar permisos de ejecución:
 
 chmod +x fastqc 
 
-#nos movemos a la carperta descomprimida de FastQC#
-
- #/Users/uliaus/Desktop/FastQC-0.11.9
+#/Users/uliaus/Desktop/FastQC-0.11.9
 
  para el enlace simbólico: sudo ln -s /Users/uliaus/Desktop/FastQC-0.11.9/fastqc /usr/local/bin/fastqc
 
@@ -75,7 +73,7 @@ Para hacerlo ejecutable:
  
 export PATH=$PATH:/Users/uliaus/desktop/FastQC
 
-Creación de sccritp*
+Creación de scritp*
 
 **Respuesta 3**
 
@@ -84,12 +82,13 @@ Archivo html
 file:///Users/uliaus/pruebanueva/ERR486827_1_fastqc.html
 file:///Users/uliaus/pruebanueva/ERR486827_2_fastqc.html
 
-Descripcion de lecturas 
+#Descripcion de lecturas 
 
 
 # Parte IV
 
 **Respueta 1**
+
 Secuencias crudas de Saccharomyces Saccharomyces species, S cerevisiae y S paradoxus. 
 
 Secuencias expraidas de : https://www.ebi.ac.uk/ena/browser/view/PRJNA33187
@@ -100,4 +99,9 @@ Se utilizó el método Sanger para la secuenciación del genoma
 
 https://www.sanger.ac.uk/research/projects/genomeinformatics/sgrp.html
 
+**Respuesta 3**
+
+**Respuesta 4**
+
+cobertura= (398824*150*)/580000 = 103.1441
 
