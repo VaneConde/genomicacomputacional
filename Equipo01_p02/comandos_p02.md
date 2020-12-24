@@ -77,7 +77,7 @@ Creación de script*
 
 **Respuesta 3**
 
-Archivo html
+Archivo html (se encuentra dentro de la carpeta Equipo01_p02 en formato pdf)
 
 file:///Users/uliaus/pruebanueva/ERR486827_1_fastqc.html
 file:///Users/uliaus/pruebanueva/ERR486827_2_fastqc.html
