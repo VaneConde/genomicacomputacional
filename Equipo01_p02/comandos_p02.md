@@ -102,7 +102,8 @@ cobertura= (150*398824)/580000 = 103.1441
 Secuencias crudas de Saccharomyces Saccharomyces cerevisiae
 
 S. cerevisiae tiene un genoma pequeño, un tiempo de duplicación relativamente corto y se puede analizar genéticamente, muchos de los avances que se han hecho en 
-biología molecular han utilizado esta levadura como herramienta de investigación. Este organismo tiene importantes usos industriales para la producción de cerveza, 
+biología molecular han utilizado esta levadura como herramienta de investigación. 
+Este organismo tiene importantes usos industriales para la producción de cerveza, 
 pan, vino, péptidos y proteínas recombinantes. Saccharomyces cerevisiae también se aísla de productos lácteos que incluyen leche, yogures y quesos, verduras 
 fermentadas y productos vegetales mínimamente procesados, aunque la importancia de esta especie en el deterioro de estos productos no está claramente definida. La 
 transformación de la levadura generalmente se realiza de dos maneras: ya sea mediante la formación de esferoplastos, incluida la eliminación de la pared celular, o 
